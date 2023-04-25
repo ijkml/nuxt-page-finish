@@ -8,7 +8,7 @@
       <br>
 
       <NuxtLayout>
-        <NuxtPage />
+        <NuxtPage transition />
       </NuxtLayout>
 
       <div class="deck">
